@@ -10,3 +10,5 @@ apt install espeak ffmpeg libespeak1
 python3 -m pip install pyttsx3
 
 python3 text2speech.py
+
+https://github.com/QwenLM/Qwen3-TTS  
